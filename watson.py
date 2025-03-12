@@ -12,3 +12,4 @@ print("Quiz")
 
 print("Week 3 - 03/10/2025")
 print("Introduced to HTML")
+print("Learnt Python")
