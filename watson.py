@@ -20,7 +20,8 @@ print("Learnt about Startup Building for developers")
 print("Week 4")
 print(" Learnt web development")
 print("Learnt Python Navigation")
-print("Learnt Databases - SQL practicle")
+print("-Learnt Databases - SQL practicle
+-Learnt how to clone a repository.")
 print("Learnt about Startup Building for developers")
 
 print("Week 5")
