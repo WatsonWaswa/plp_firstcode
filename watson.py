@@ -18,7 +18,8 @@ print("Learnt about Startup Building for developers")
 
 
 print("Week 4")
-print(" Learnt web development")
+print(" Learnt web development - HTML, CSS
+        Attended AI - Masterclass")
 print("Learnt Python Navigation")
 print("-Learnt Databases - SQL practicle
 -Learnt how to clone a repository.")
