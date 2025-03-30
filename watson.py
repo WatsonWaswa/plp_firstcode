@@ -25,6 +25,12 @@ print("-Learnt Databases - SQL practicle
 -Learnt how to clone a repository.")
 print("Learnt about Startup Building for developers")
 
+print("Week 5")
+print(" Learnt web development")
+print("Learnt Python Navigation - conditional statements")
+print("Learnt Databases - Transactions")
+print("Learnt about Startup Building for developers - continuation")
+
 print("Week 6")
 print(" Learnt web development")
 print("Learnt Python Navigation - conditional statements")
