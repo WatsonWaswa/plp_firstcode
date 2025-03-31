@@ -32,7 +32,7 @@ print("Learnt Databases - Transactions")
 print("Learnt about Startup Building for developers - continuation")
 
 print("Week 6")
-print(" Learnt web development")
+print("Eid Mubarak - holiday")
 print("Learnt Python Navigation - conditional statements")
 print("Learnt Databases - Transactions")
 print("Learnt about Startup Building for developers - continuation")
