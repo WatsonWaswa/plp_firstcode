@@ -27,7 +27,7 @@ print("Learnt about Startup Building for developers")
 
 print("Week 5")
 print(" Learnt web development")
-print("Learnt Python Navigation - conditional statements")
+print("Learnt Python Navigation - read and write operations")
 print("Learnt Databases - Transactions")
 print("Learnt about Startup Building for developers - continuation")
 
