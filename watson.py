@@ -36,3 +36,10 @@ print("Eid Mubarak - holiday")
 print("Learnt Python Navigation - conditional statements")
 print("Learnt Databases - Transactions")
 print("Learnt about Startup Building for developers - continuation")
+
+print("Week 7")
+print("Web Dev - grids and media queries")
+print("Learnt Python Navigation")
+print("Learnt Databases - joins")
+print("Learnt about Startup Building for developers - continuation")
+
