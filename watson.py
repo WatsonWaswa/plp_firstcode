@@ -23,7 +23,7 @@ print(" Learnt web development - HTML, CSS
 print("Learnt Python Navigation")
 print("-Learnt Databases - SQL practicle
 -Learnt how to clone a repository.")
-print("Learnt about Startup Building for developers")
+print("Learnt about S tartup Building for developers")
 
 print("Week 5")
 print(" Learnt web development")
