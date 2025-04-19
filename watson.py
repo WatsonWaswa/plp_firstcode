@@ -41,5 +41,5 @@ print("Week 7")
 print("Web Dev - grids and media queries")
 print("Learnt Python Navigation")
 print("Learnt Databases - joins")
-print("Learnt about Startup Building for developers")
+print("Learnt about Startup Building for developers.")
 
