@@ -44,7 +44,7 @@ print("Learnt Databases - joins")
 print("Learnt about Startup Building for developers.")
 
 print("Week 8")
-print("Web Dev - grids and media queries")
+print("Web Dev - javascript")
 print("Learnt Python Navigation")
 print("Learnt Databases - joins")
 print("Learnt about Startup Building for developers.")
