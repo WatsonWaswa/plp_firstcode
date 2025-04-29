@@ -1,4 +1,4 @@
-hiprint("Hello world")
+byhiprint("Hello world")
 print("Happy coding")
 print("Week 1 PLP Academy done - 15 to go")
 print("Week 2 starting tomorrow")
@@ -45,6 +45,6 @@ print("Learnt about Startup Building for developers.")
 
 print("Week 8")
 print("Web Dev - javascript")
-print("Learnt Python Navigation")
+print("Masterclass - AI")
 print("Learnt Databases - recovery")
 print("Learnt about Startup Building for developers.")
