@@ -48,3 +48,5 @@ print("Web Dev - javascript")
 print("Masterclass - AI")
 print("Learnt Databases - recovery")
 print("Learnt about Startup Building for developers.")
+
+print("SPECILIZATION - MERN STACK")
