@@ -51,3 +51,4 @@ print("Learnt about Startup Building for developers.")
 
 print("SPECILIZATION - MERN STACK")
 print("Week 1 - mongodb")
+print("Week 2 - expressjs")
