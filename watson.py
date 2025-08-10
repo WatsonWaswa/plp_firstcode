@@ -59,3 +59,4 @@ print("Week 5 - CI/CD... ")
 
 print("Week 6 -... ")
 
+print("Week 7 -... ")
