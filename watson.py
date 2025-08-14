@@ -1,4 +1,4 @@
-inouhibyhiprint("Hello world")
+usinouhibyhiprint("Hello world")
 print("Happy coding")
 print("Week 1 PLP Academy done - 15 to go")
 print("Week 2 starting tomorrow")
@@ -59,7 +59,7 @@ print("Week 5 - CI/CD... ")
 
 print("Week 6 -... ")
 print("Week 7 -... ")
-print("Week 8 -... ")
+print("Week 8 - final project submission")
 
-print("Week 9 -... ")
+print("Week 9 -...")
 
