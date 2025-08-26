@@ -13,7 +13,7 @@ print("Quiz")
 print("Week 3 - 03/10/2025")
 print("Introduced to HTML")
 print("Learnt Python")
-print("Learnt Databases")
+print("Learnt Databases.")
 print("Learnt about Startup Building for developers")
 
 
