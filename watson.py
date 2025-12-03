@@ -140,7 +140,7 @@ print("\nWeek 15 – Job Readiness")
 print(" - Interview strategies")
 print(" - Technical assessments preparation")
 
-print("\nWeek 16 – Graduation Week")
+print("\nWeek 16 – Graduation Week!")
 print(" - Final reviews and feedback")
 print(" - Ceremony and certification")
 print(" - Closing reflections and next steps in tech")
